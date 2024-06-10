@@ -1,0 +1,6 @@
+{
+    "_comment":"Redis port is default 6379 in case of any changes configure it PUT flask server URL",
+    "Redis_Server_IP_Address":"172.23.77.10",
+    "Redis_Server_Port":6379, 
+    "Server_IP":"https://172.23.77.10:8000"
+}
